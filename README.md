@@ -1,16 +1,9 @@
 ## Install OS X Metal
 
-1.  Install conda forge.
+refer to this: https://developer.apple.com/metal/tensorflow-plugin/
 
-```
-wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-x86_64.sh
-chmod +x
-./Miniforge3-MacOSX-x86_64.sh
-```
-
-2.  After install run `conda config --set auto_activate_base false`
-3.  `source ~/miniforge3/bin/activate`
-4.  Run `make install` to install metal
+1.  `python3 -m venv ~/.dalle && source ~/.dalle/bin/activate`
+2.  Run `make install` to install metal
 
 
 # DALL·E Mini

@@ -1,2 +1,7 @@
 tensorflow-macos
 tensorflow-metal
+jupyter
+matplotlib
+pandas
+jax 
+jaxlib
