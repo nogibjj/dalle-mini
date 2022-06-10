@@ -8,6 +8,8 @@ chmod +x
 ./Miniforge3-MacOSX-x86_64.sh
 ```
 
+2.  After install run `conda config --set auto_activate_base false`
+
 
 # DALL·E Mini
 
