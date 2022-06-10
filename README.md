@@ -9,6 +9,8 @@ chmod +x
 ```
 
 2.  After install run `conda config --set auto_activate_base false`
+3.  `source ~/miniforge3/bin/activate`
+4.  Run `make install` to install metal
 
 
 # DALL·E Mini
