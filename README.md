@@ -3,7 +3,9 @@
 1.  Install conda forge.
 
 ```
-https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-x86_64.sh
+wget https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-MacOSX-x86_64.sh
+chmod +x
+./Miniforge3-MacOSX-x86_64.sh
 ```
 
 
